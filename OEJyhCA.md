@@ -8,4 +8,4 @@ image: /upload/1x_md.jpg
 
 ---
 
-testing one two
+testing one
