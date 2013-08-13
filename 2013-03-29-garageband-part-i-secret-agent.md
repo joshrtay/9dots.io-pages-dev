@@ -1,5 +1,4 @@
 ---
-author: admin
 date: 2013-03-29 22:55:00+00:00
 layout: post
 title: 'GarageBand Part I: Secret Agent'

@@ -1,5 +1,4 @@
 ---
-author: admin
 date: 2013-03-12 04:22:08+00:00
 layout: post
 title: 'It''s Electric, Week 2: Mazes'

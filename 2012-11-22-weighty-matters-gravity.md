@@ -1,5 +1,4 @@
 ---
-author: admin
 date: 2012-11-22 11:38:12+00:00
 layout: post
 title: Weighty Matters – Gravity
