@@ -9,6 +9,8 @@ published: true
 
 ---
 
+Delete
+
 Our lesson on chemistry started out with a review of basic terms (atoms, molecules, chemical reactions, etc.)  Students learned about the difference between chemical reactions (which can't be undone) and physical reactions (which can).
 
 We then showed a couple of fun videos of chemical reactions: a video of an [unfortunate gummy bear being added to potassium chlorate](http://www.youtube.com/watch?feature=player_embedded&v=txkRCIPSsjM), and a video of [elephant's toothpaste](www.youtube.com/watch?v=ezsur0L0L1c).  The elephant's toothpaste in the video wasn't kid-friendly, but some quick googling gave us a fun, kid-friendly version so we were able to make "baby" elephant's toothpaste with the 9 Dots students!
