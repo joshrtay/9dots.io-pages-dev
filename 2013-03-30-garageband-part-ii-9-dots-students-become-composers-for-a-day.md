@@ -1,5 +1,4 @@
 ---
-author: admin
 date: 2013-03-30 09:15:36+00:00
 layout: post
 title: 'GarageBand Part II: 9 Dots Students Become Composers for a Day'
