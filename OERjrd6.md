@@ -4,6 +4,7 @@ published: false
 layout: post
 title: test
 blurb: test
+image: /upload/27_md.jpg
 
 ---
 
