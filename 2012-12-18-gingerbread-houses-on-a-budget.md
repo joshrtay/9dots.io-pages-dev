@@ -1,9 +1,11 @@
 ---
-date: 2012-12-18 22:46:38+00:00
+date: 2012-12-18T22:46:38.000Z
 layout: post
 title: Gingerbread Houses on a Budget
 blurb: "Students use #math to build a gingerbread house on a budget. #lessonPlan"
-image: "/upload/gingerbread.jpg"
+image: /upload/gingerbread.jpg
+published: true
+
 ---
 
 ## Our last project of the semester!
