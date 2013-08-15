@@ -1,9 +1,11 @@
 ---
-date: 2013-03-11 14:46:48+00:00
+date: 2013-03-11T14:46:48.000Z
 layout: post
-title: 'It''s Electric, Week 2: Fun with Sprites'
+title: "It's Electric, Week 2: Fun with Sprites"
 blurb: "#computerProgramming #electronics #lessonPlan"
-image: "/upload/sprites.jpg"
+image: /upload/sprites.jpg
+published: true
+
 ---
 
 ## Fun with sprites in Scratch + MaKey MaKey
@@ -95,5 +97,3 @@ Set out project materials at front of room.
 
 
 We combined the [CS-Third lesson plan](https://cs-third.wikispaces.com/Scratch+and+MakeyMakey) into an hour and a half, with the majority of the time spent working in Scratch since the students were familiar with the MaKey MaKey.
-
-
