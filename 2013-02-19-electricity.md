@@ -1,9 +1,11 @@
 ---
-date: 2013-02-19 17:36:21+00:00
+date: 2013-02-19T17:36:21.000Z
 layout: post
-title: It's Electric
+title: "It's Electric"
 blurb: "A #computerProgramming and #electronics #lessonPlan."
-image: "/upload/electriy.jpg"
+image: /upload/electriy.jpg
+published: true
+
 ---
 
 #### Unit Overview:
@@ -202,7 +204,4 @@ Have students work through the Electricity Challenges.  As students work with t
 [back to projects](http://9-dots.org/electricity/#top)
 
 
-## 
-
-
-
+##
