@@ -1,13 +1,12 @@
 ---
-date: 2013-02-28 17:26:11+00:00
+date: 2013-02-28T17:26:11.000Z
 layout: post
 title: Marshmallow Catapults
 blurb: "#lessonPlan #mechanicalEngineering"
-image: "/upload/catapult.jpg"
+image: /upload/catapult.jpg
+published: true
+
 ---
-
-
-
 
 ## Marshmallow Catapults
 
