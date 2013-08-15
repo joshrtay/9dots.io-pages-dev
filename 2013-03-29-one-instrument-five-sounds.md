@@ -1,9 +1,11 @@
 ---
-date: 2013-03-29 21:19:54+00:00
-title: One Instrument, Five Sounds
+date: 2013-03-29T21:19:54.000Z
+title: "One Instrument, Five Sounds"
 blurb: "#physics #science #lessonPlan"
-image: "/upload/instrument.jpg"
+image: /upload/instrument.jpg
 layout: post
+published: true
+
 ---
 
 ## The science behind sound, & making your own instruments!
@@ -97,5 +99,3 @@ Set out project materials at front of room.
 Students worked in groups of 2-3, and were allowed to pick from the materials provided using a lottery system.  Each group drew a number 1-10 from a bag, and they were required to choose 2 materials every time their number was called.  The groups took turns until most of the supplies were gone.
 
 After students made their instruments, they came up to the front of the class to demonstrate the 5 different types of sounds they could create!
-
-
