@@ -1,9 +1,11 @@
 ---
-date: 2013-03-30 09:15:36+00:00
+date: "2013-03-30T09:15:36.000Z"
 layout: post
-title: 'GarageBand Part II: 9 Dots Students Become Composers for a Day'
+title: "GarageBand Part II: 9 Dots Students Become Composers for a Day"
 blurb: "A #digitalMedia and #science #lessonPlan."
-image: "/upload/garageband2.jpg"
+image: /upload/garageband2.jpg
+published: true
+
 ---
 
 ## Soundtracks, Scores & More!
