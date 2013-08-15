@@ -1,9 +1,11 @@
 ---
-date: 2013-02-06 20:22:34+00:00
+date: 2013-02-06T20:22:34.000Z
 layout: post
-title: Don't stop! Stop-motion animation and more!
+title: "Don't stop! Stop-motion animation and more!"
 blurb: "#animation #lessonPlan."
-image: "/upload/stopmotion.jpg"
+image: /upload/stopmotion.jpg
+published: true
+
 ---
 
 #### Unit Overview:
@@ -423,5 +425,3 @@ Here are links to some of the awesome videos that our students made this year!
 
 
 [back to projects](http://9-dots.org/drive-my-car/#top)..
-
-
