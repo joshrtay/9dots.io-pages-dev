@@ -8,4 +8,4 @@ image: /upload/2u_md.jpg
 
 ---
 
-test
+![](/upload/2v_md.jpg) test
