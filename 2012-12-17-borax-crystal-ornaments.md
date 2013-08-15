@@ -1,9 +1,11 @@
 ---
-date: 2012-12-17 03:49:00+00:00
+date: 2012-12-17T03:49:00.000Z
 layout: post
 title: Borax Crystal Ornaments
 blurb: "A #lessonPlan that teaches students about #chemistry through the creation of borax crystals."
-image: "/upload/borax.jpg"
+image: /upload/borax.jpg
+published: true
+
 ---
 
 ## Borax Crystal Ornaments
@@ -89,5 +91,3 @@ _1. Saturated & Unsaturated Solutions [10 minutes] _Talk about unsaturated, satu
 2. _Making the ornaments [20 minutes _Students will use pipe cleaners to design and make their own ornaments. They should use string to tie the ornaments to the craft stick or something else that can rest across the top of the plastic cups. Make sure the students understand that the ornaments should fit in the cups without touching the bottom or sides, so that the ornaments do not get stuck after crystallization happens.
 
 3. _Adding the borax/water solution [5-10 minutes per group] _Add borax and water to each student’s plastic cups. Pouring the water should be done by an adult as the water is extremely hot. We used close to boiling water and followed the formula we found online of 3 tbs borax for each cup of boiling water.
-
-
