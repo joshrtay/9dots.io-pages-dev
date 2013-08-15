@@ -1,10 +1,12 @@
 ---
 comments: false
-date: 2012-11-22 11:29:17+00:00
+date: 2012-11-22T11:29:17.000Z
 layout: post
-title: Crank it up!
+title: "Crank it up!"
 blurb: "A #mechanicalEngineering #lessonPlan that teaches #testing and #iteration."
-image: "/upload/crank.jpg"
+image: /upload/crank.jpg
+published: true
+
 ---
 
 #### Unit Overview:
@@ -441,7 +443,3 @@ What is a simple machine?  Why are the crank toys we built simple machines?
 
 
 [back to projects](http://9-dots.org/crank-it-up/#top_crank)..
-
-
-
-
