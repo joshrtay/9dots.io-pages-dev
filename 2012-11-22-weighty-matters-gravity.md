@@ -1,9 +1,11 @@
 ---
-date: 2012-11-22 11:38:12+00:00
+date: 2012-11-22T11:38:12.000Z
 layout: post
 title: Weighty Matters – Gravity
 blurb: "A #lessonPlan that teach students about #energy, #structures, and #productDesign in the context of learning about #gravity."
-image: "/upload/gravity.jpg"
+image: /upload/gravity.jpg
+published: true
+
 ---
 
 #### Unit Overview:
@@ -384,5 +386,3 @@ _5. Build! [1 hour 10 minutes] _ Challenge the students to make a roller coate
 In order to build the coaster, all students need to do is fold each piece of card stock in half the long way.  Then, each student should start by making the frame of the track, which is a cube.  Then they can add the track onto the frame.
 
 _[back to projects](http://9-dots.org/weighty-matters-gravity/#top).._
-
-
