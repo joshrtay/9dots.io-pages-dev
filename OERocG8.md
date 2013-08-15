@@ -1,6 +1,6 @@
 ---
 date: "2013-08-14T01:08:58.209Z"
-published: false
+published: true
 layout: post
 title: test
 blurb: test
