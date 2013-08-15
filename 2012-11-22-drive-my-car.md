@@ -1,9 +1,11 @@
 ---
-date: 2012-11-22 11:31:55+00:00
+date: 2012-11-22T11:31:55.000Z
 layout: post
 title: Drive My Car
 blurb: "An #environmentEnginering and #mechanicalEngineering lesson plan."
-image: "/upload/drive.jpg"
+image: /upload/drive.jpg
+published: true
+
 ---
 
 #### Unit Overview:
@@ -341,5 +343,3 @@ Give points to the slowest design as well as the most creative design.
 
 
 [back to projects](http://9-dots.org/drive-my-car/#top)..
-
-
