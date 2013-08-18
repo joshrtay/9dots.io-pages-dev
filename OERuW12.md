@@ -4,6 +4,7 @@ published: true
 layout: post
 title: test
 blurb: test
+image: /upload/2t_md.jpg
 
 ---
 
