@@ -2,10 +2,10 @@
 date: "2013-08-14T01:32:24.178Z"
 published: true
 layout: post
-title: testing 2
+title: testing 3
 blurb: test
 image: /upload/2t_md.jpg
-update: 2013-08-21T16:56:50.410Z
+update: 2013-08-21T16:57:00.327Z
 
 ---
 
