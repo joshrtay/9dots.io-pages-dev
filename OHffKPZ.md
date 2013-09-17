@@ -2,7 +2,7 @@
 id: "joshrtay-OHffKPZ"
 author: joshrtay
 views: 0
-published: false
+published: true
 type: unit
 lessons: 
   - "joshrtay-OHeNKRf"
