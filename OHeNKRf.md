@@ -5,6 +5,7 @@ type: lesson
 title: Josh Test 2
 blurb: test 11
 published: true
+image: "http://uploads.9dots.io/OHfc0Yv_md.jpg"
 
 ---
 
