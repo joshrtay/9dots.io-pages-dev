@@ -4,6 +4,7 @@ author: joshrtay
 type: lesson
 title: Josh Test 2
 blurb: test 2
+published: true
 
 ---
 
