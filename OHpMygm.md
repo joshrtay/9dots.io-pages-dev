@@ -2,7 +2,7 @@
 id: "joshrtay-OHpMygm"
 author: joshrtay
 views: 0
-published: false
+published: true
 type: wiki
 image: /bokeh.png
 title: Test 1
