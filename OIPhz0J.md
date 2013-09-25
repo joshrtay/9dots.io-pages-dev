@@ -1,7 +1,7 @@
 ---
 author: joshrtay
 views: 0
-published: true
+published: false
 type: wiki
 image: /bokeh.png
 title: Test Wiki
