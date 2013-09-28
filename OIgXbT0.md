@@ -1,7 +1,7 @@
 ---
 author: joshrtay
 views: 0
-published: false
+published: true
 type: lesson
 title: Test
 blurb: "Testing a new post for #younger students"
