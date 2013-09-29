@@ -6,7 +6,7 @@ type: lesson
 title: Test
 blurb: "Testing a new post for #younger students"
 objective: By teach this students will learn that.
-image: "http://uploads.9dots.io/OIrajIr_md.jpg"
+image: "http://uploads.9dots.io/OIsIfV3_md.jpg"
 id: "joshrtay-OIgXbT0"
 
 ---
