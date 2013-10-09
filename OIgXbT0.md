@@ -3,7 +3,7 @@ author: joshrtay
 views: 0
 published: true
 type: lesson
-title: Test
+title: Hook
 blurb: "Testing a new post for #younger students"
 objective: By teach this students will learn that.
 image: "http://uploads.9dots.io/OIsIfV3_md.jpg"
