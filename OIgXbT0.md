@@ -12,7 +12,6 @@ id: "joshrtay-OIgXbT0"
 ---
 
 ## Setup
-
 Test setup 3
 
 ## Introduce
